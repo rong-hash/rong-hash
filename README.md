@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently working on [FPGA Study](https://github.com/MooMooHorse/ECE385)
 
-- 👨‍💻 All of my projects are available at [my website](rong-hash.github.io/project)
+- 👨‍💻 All of my projects are available at [my project website](rong-hash.github.io/project)
 
 - 📝 I regularly write articles on [my personal blog website](rong-hash.github.io/blog)
 
-- 📫 How to reach me? [email](mailto://zhirong4@illinois.edu)
-
-- 📄 Know about my experiences: View [here](rong-hash.github.io/resume.pdf)
+- 📄 Wanna know about my experiences? View [here](rong-hash.github.io/resume.pdf)
 
 - ⚡ Fun fact **I love Chinese calligraphy!**
 
-<h3 align="left">Connect with me: zhirong4 AT illinois.edu</h3>
+
 <p align="left">
 </p>
 
