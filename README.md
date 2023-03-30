@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [FPGA Study](https://github.com/MooMooHorse/ECE385)
 
-- 👨‍💻 All of my projects are available at [my project website](rong-hash.github.io/project)
+- 👨‍💻 All of my projects are available at [my project website](https://rong-hash.github.io/project)
 
-- 📝 I regularly write articles on [my personal blog website](rong-hash.github.io/blog)
+- 📝 I regularly write articles on [my personal blog website](https://rong-hash.github.io/blog)
 
-- 📄 Wanna know about my experiences? View [here](rong-hash.github.io/resume.pdf)
+- 📄 Wanna know about my experiences? View [here](https://rong-hash.github.io/resume.pdf)
 
 - ⚡ Fun fact **I love Chinese calligraphy!**
 
