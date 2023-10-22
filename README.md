@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhirong Chen</h1>
 <h3 align="center">Junior of Computer Engineering, UIUC</h3>
 
-- 🔭 I’m currently working on [FPGA Study](https://github.com/rong-hash/FPGA-Tank-World)
+- 🔭 I’m currently working on RICV-pipelined CPU, GPT for EDA, and parallel programming.
 
 - 👨‍💻 All of my projects are available at [my project website](https://rong-hash.github.io/project)
 
